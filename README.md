@@ -2,7 +2,7 @@
 
 1. Clone the repo on to your system.
    ```bash
-   git clone
+   git clone git@github.com:amirthapa27/spotbuzz-assessment.git
    ```
 2. Make sure you have ` docker` and `docker-compose` installed on your system.
 
